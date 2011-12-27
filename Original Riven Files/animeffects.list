@@ -1,0 +1,14 @@
+;
+; List of effects that goes to each animation
+;
+; format:
+;  AnimationName BoneName EffectName [s:StartFrame] [e:EndFrame] [l:Loops]
+;
+;  StartFrame defaults to 0 (starts as soon as the animation begins)
+;  EndFrame defaults to -1 (ends only when the animation stops)
+;
+;  e.g. Taunt ParticleEmitter_tip NexusDestroyedExplosionFinal_Order.troy s:15 e:20 l:0
+;  starts at frame 15, ends at frame 20 and does not loop
+
+Death	spine				RivenDeathSound.troy s:0 l:0
+
