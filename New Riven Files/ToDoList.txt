@@ -1,0 +1,23 @@
+ Ok So its better that we have All the NeedsToBeDone in one txt file:
+-Finish the Toroso textures;
+-Make Bowtie;
+-Texture Bowtie;
+-make/add The cloth strips between her body and the Lower part of the suit;
+-texture em;
+-Shoes!;
+-Make a bit more triangual and "Furry" The boob thingy;
+-Texture the booby Thingy
+-Fix The skin tone;
+-add tatoos(One Heart in the Butchick, on on the arm);
+-Finish the shocks;
+-Map/Fix the particles in the main map;(donno if done)
+
+After Thease are Finished:
+
+-Make her in bind pose;
+-Add Rivens Original Hands;
+-Add Carot;
+-Fixx maps;
+-Bind;
+-Test;
+-Bind again...
