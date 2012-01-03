@@ -1,11 +1,10 @@
  Ok So its better that we have All the NeedsToBeDone in one txt file:
 -Finish the Toroso textures;
--Make Bowtie;
--Texture Bowtie;
 -Shoes!;
 -Fix The skin tone;
 -add tatoos(One Heart in the Butchick, on on the arm);
 -Finish the shocks;
+-Carrot Sword!
 
 After Thease are Finished:
 
