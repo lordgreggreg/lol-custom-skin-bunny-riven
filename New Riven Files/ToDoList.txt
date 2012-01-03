@@ -1,0 +1,18 @@
+ Ok So its better that we have All the NeedsToBeDone in one txt file:
+-Finish the Toroso textures;
+-Make Bowtie;
+-Texture Bowtie;
+-Shoes!;
+-Fix The skin tone;
+-add tatoos(One Heart in the Butchick, on on the arm);
+-Finish the shocks;
+
+After Thease are Finished:
+
+-Make her in bind pose;
+-Add Rivens Original Hands;
+-Add Carot;
+-Fixx maps;
+-Bind;
+-Test;
+-Bind again...
