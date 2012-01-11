@@ -1,0 +1,14 @@
+ Ok So its better that we have All the NeedsToBeDone in one txt file:
+-Finish the Toroso textures;
+-Fix The skin tone;
+-add tatoos(One Heart in the Butchick, on on the arm);
+-Finish the shocks;
+-Carrot Sword!
+
+After Thease are Finished:
+
+-Make her in bind pose;
+-Fixx maps;
+-Bind;
+-Test;
+-Bind again...
