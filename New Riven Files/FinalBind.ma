@@ -1,6 +1,6 @@
 //Maya ASCII 2012 scene
 //Name: FinalBind.ma
-//Last modified: Tue, Jan 17, 2012 12:35:49 AM
+//Last modified: Tue, Jan 17, 2012 12:37:23 AM
 //Codeset: 1252
 requires maya "2012";
 requires "stereoCamera" "10.0";
@@ -12,8 +12,8 @@ fileInfo "cutIdentifier" "001200000000-796618";
 fileInfo "osv" "Microsoft Windows 7 Home Premium Edition, 64-bit Windows 7 Service Pack 1 (Build 7601)\n";
 createNode transform -s -n "persp";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" -100.9168304992172 83.201058178508973 -252.06329107903514 ;
-	setAttr ".r" -type "double3" -0.93835270962204342 1644.599999999919 0 ;
+	setAttr ".t" -type "double3" 51.35466506638204 88.513896251004098 227.89977607758541 ;
+	setAttr ".r" -type "double3" -2.1383527096133692 1810.6000000000583 0 ;
 	setAttr ".rp" -type "double3" 3.1086244689504383e-014 0 0 ;
 	setAttr ".rpt" -type "double3" -7.1515975390269211e-014 -1.3455298674203628e-014 
 		3.9080501190108616e-015 ;
