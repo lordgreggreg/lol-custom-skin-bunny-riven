@@ -1,0 +1,41 @@
+;
+; Animation List for Preloading
+;
+; format:
+;  AnimationName [d:1 for disabled root bone] [s:FPS]
+
+Attack1		riven_attack1		s:30
+Attack1_ult	riven_attack1_ult	s:30
+Attack2		riven_attack2		s:30
+Attack2_ult	riven_attack2_ult	s:30
+Attack3		riven_attack3		s:30
+Attack3_ult	riven_attack3		s:30
+Channel		riven_channel		s:30
+Channel_WNDUP	riven_channel_windup	s:30
+Crit		riven_crit      	s:30
+Crit_ult	riven_crit		s:30
+Dance		riven_dance		s:45
+Death		riven_death		s:30
+Idle1		riven_Idle1		s:30
+Idle1_ult	riven_Idle1_ult		s:30
+Idle2		riven_Idle2		s:30
+Idle3		riven_Idle3		s:30
+Idle4		riven_Idle1		s:30
+Laugh		riven_laugh		s:30
+Run		riven_run		s:30
+Run_ult		riven_run_ult		s:30
+Spell1a 	riven_spell1a		s:30
+Spell1a_ult	riven_spell1a		s:30
+Spell1b 	riven_spell1b   	s:30
+Spell1b_ult	riven_spell1b		s:30
+Spell1c 	riven_spell1c   	s:30
+Spell1c_ult	riven_spell1c		s:30
+Spell2		riven_spell2		s:30
+Spell2_ult	riven_spell2		s:30	
+Spell3		riven_spell3		s:30
+Spell3_ult	riven_spell3		s:30
+Spell4a		riven_spell4a		s:30
+Spell4b		riven_spell4b		s:30
+Taunt		riven_taunt		s:30
+Joke		riven_joke		s:30
+
