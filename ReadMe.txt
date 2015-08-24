@@ -19,7 +19,7 @@ http://sites.google.com/site/siuupdates/
 http://usa.autodesk.com/maya/
 http://www.adobe.com/products/photoshop.htm
 
-![Main Render](/renders/riven%20with%20props.jpg?raw=true "Main Render")
+![Main Render](https://raw.githubusercontent.com/lordgreggreg/lol-custom-skin-bunny-riven/master/renders/riven%20with%20props.jpg?raw=true "Main Render")
 ![Skin 1](/renders/Riven%20Skin%201%20Render.png?raw=true "Skin 1")
 ![Skin 2](/renders/Riven%20Skin%202%20Render.png?raw=true "Skin 2")
 ![Skin 3](/renders/Riven%20Skin%203%20Render.png?raw=true "Skin 1")
